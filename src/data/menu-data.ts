@@ -24,15 +24,15 @@ const menu_data:IMenuDataType[] = [
     title:'เกี่ยวกับ',
     link:'/about',
   },
-  // {
-  //   id:3,
-  //   title:'โปรโมชั่นและกิจกรรม',
-  //   link:'#',
-  //   sub_menu:[
-  //     {title:'โปรโมชั่น',link:'/'},
-  //     {title:'กิจกรรม',link:'/'},
-  //   ]
-  // },
+  {
+    id:3,
+    title:'โปรโมชั่นและกิจกรรม',
+    link:'/blog',
+    // sub_menu:[
+    //   {title:'โปรโมชั่น',link:'/blog'},
+    //   // {title:'กิจกรรม',link:'/blog-details'},
+    // ]
+  },
   // {
   //   id:4,
   //   title:'PAGES',
@@ -45,15 +45,15 @@ const menu_data:IMenuDataType[] = [
   //     {title:'Player Details',link:'/team-details'},
   //   ]
   // },
-  // {
-  //   id:5,
-  //   title:'บทความ',
-  //   link:'#',
-  //   sub_menu:[
-  //     {title:'บทความ',link:'/'},
-  //     // {title:'Blog Details',link:'/blog-details'}
-  //   ]
-  // },
+  {
+    id:5,
+    title:'บทความ',
+    link:'/blog-details'
+    // sub_menu:[
+    //   {title:'บทความ',link:'/'},
+    //   // {title:'Blog Details',link:'/blog-details'}
+    // ]
+  },
   {
     id:6,
     title:'ติดต่อเรา',

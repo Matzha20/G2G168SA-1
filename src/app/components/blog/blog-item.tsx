@@ -15,14 +15,16 @@ const BlogItem = ({blog}:{blog:IBlog}) => {
         <div className="blog-post-meta">
           <ul className="list-wrap">
             <li>
-              By<Link href={`/blog-details/${blog.id}`}>{blog.author}</Link>
+              {/* By<Link href={`/blog-details/${blog.id}`}>{blog.author}</Link> */}
+              {blog.author}
             </li>
             <li>
               <i className="far fa-calendar-alt"></i> {blog.author}
             </li>
             <li>
               <i className="far fa-comments"></i>
-              <Link href={`/blog-details/${blog.id}`}>{blog.comments === 0 ? 'No comments' : `${blog.comments} comments`}</Link>
+              {/* <Link href={`/blog-details/${blog.id}`}>{blog.comments === 0 ? 'No comments' : `${blog.comments} comments`}</Link> */}
+              {blog.comments === 0 ? 'No comments' : `${blog.comments} comments`}
             </li>
           </ul>
         </div>
@@ -32,7 +34,7 @@ const BlogItem = ({blog}:{blog:IBlog}) => {
         <p>
           {blog.desc}
         </p>
-        <div className="blog-post-bottom">
+        {/* <div className="blog-post-bottom">
           <div className="blog-post-read">
             <Link href={`/blog-details/${blog.id}`}>
               READ MORE <i className="fas fa-arrow-right"></i>
@@ -58,7 +60,7 @@ const BlogItem = ({blog}:{blog:IBlog}) => {
               </li>
             </ul>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );

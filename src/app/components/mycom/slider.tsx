@@ -15,7 +15,7 @@ import pro_10 from '@/assets/img/brand/P10.png';
 
 const Slider = () => {
     return (
-<div id="carouselExampleSlidesOnly" className="carousel slide" data-bs-ride="carousel">
+<div id="carouselExampleSlidesOnly" className="carousel slide border border-5 border-warning" data-bs-ride="carousel">
   <div className="carousel-inner">
 
     <div className="carousel-item active">
