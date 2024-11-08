@@ -1,8 +1,8 @@
-import blog_1 from '@/assets/img/blog/โปรโมชั่น/01.png';
-import blog_2 from '@/assets/img/blog/โปรโมชั่น/02.png';
-import blog_3 from '@/assets/img/blog/โปรโมชั่น/04.png';
-import blog_4 from '@/assets/img/blog/โปรโมชั่น/03.png';
-import blog_5 from '@/assets/img/blog/โปรโมชั่น/05.png';
+import blog_1 from '@/assets/img/blog/pro/01.png';
+import blog_2 from '@/assets/img/blog/pro/02.png';
+import blog_3 from '@/assets/img/blog/pro/04.png';
+import blog_4 from '@/assets/img/blog/pro/03.png';
+import blog_5 from '@/assets/img/blog/pro/05.png';
 import { IBlog } from '@/types/blog-type';
 
 const blog_data:IBlog[] = [
