@@ -20,7 +20,7 @@ export default function BlogPage() {
       {/* main area start */}
       <main className="main--area">
         {/* breadcrumb area start */}
-       <BreadcrumbAreaThree title="BLOG STANDARD" subtitle="BLOG LIST" />
+       <BreadcrumbAreaThree title="BLOG STANDARD" subtitle="โปรโมชั่น" />
         {/* breadcrumb area end */}
 
         {/* blog area start */}

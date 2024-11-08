@@ -13,6 +13,7 @@ import BrandArea from "./components/brand/brand-area";
 import FooterTwo from "@/layout/footer/footer-2";
 import Navbar from "./components/mycom/nav";
 import Slider from "./components/mycom/slider";
+import Slider2 from "./components/mycom/slider2";
 
 export const metadata: Metadata = {
   title: "G2G168SA",
@@ -34,6 +35,10 @@ export default function HomeTwo() {
 
        {/* hero banner start */}
        <Slider />
+       {/* hero banner end */}
+
+       {/* hero banner start */}
+       <Slider2 />
        {/* hero banner end */}
 
        {/* match result start */}

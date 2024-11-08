@@ -10,10 +10,10 @@ const BlogSidebar = () => {
     <aside className="blog-sidebar">
         <div className="blog-widget">
             <div className="sidebar__author">
-                <div className="sidebar__author-thumb">
+                {/* <div className="sidebar__author-thumb">
                     <Image src={avatar} alt="img" style={{width:'100%',height:'auto'}} />
-                </div>
-                <div className="sidebar__author-content">
+                </div> */}
+                {/* <div className="sidebar__author-content">
                     <h4 className="name">Kaceytron G.</h4>
                     <p>Lorem ipsum sitamet conteur adipiscing Duis elementum solliciin</p>
                     <div className="sidebar__author-social">
@@ -21,16 +21,16 @@ const BlogSidebar = () => {
                         <Link href="#"><i className="fab fa-facebook-f"></i></Link>
                         <Link href="#"><i className="fab fa-linkedin-in"></i></Link>
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
         <div className="blog-widget">
-            <form className="sidebar-search-form position-relative">
+            {/* <form className="sidebar-search-form position-relative">
                 <input type="text" placeholder="Search here.."/>
                 <button><i className="flaticon-loupe"></i></button>
-            </form>
+            </form> */}
         </div>
-        <div className="blog-widget widget_categories">
+        {/* <div className="blog-widget widget_categories">
             <h4 className="fw-title">CATEGORIES</h4>
             <ul className="list-wrap">
                 <li><Link href="#">gaming</Link><span className="float-right">(11)</span></li>
@@ -40,8 +40,8 @@ const BlogSidebar = () => {
                 <li><Link href="#">controller</Link><span className="float-right">(2)</span></li>
                 <li><Link href="#">live</Link><span className="float-right">(7)</span></li>
             </ul>
-        </div>
-        <div className="blog-widget">
+        </div> */}
+        {/* <div className="blog-widget">
             <h4 className="fw-title">Recent Posts</h4>
             <div className="rc__post-wrapper">
               {blog_data.slice(0,3).map((b) => (
@@ -58,8 +58,8 @@ const BlogSidebar = () => {
                 </div>
               ))}
             </div>
-        </div>
-        <div className="blog-widget">
+        </div> */}
+        {/* <div className="blog-widget">
             <h4 className="fw-title">Newsletter</h4>
             <div className="sidebar__newsletter">
                 <p>Lorem ipsum sitamet conteur adipiscin</p>
@@ -68,14 +68,14 @@ const BlogSidebar = () => {
                     <button type="submit"><i className="fas fa-arrow-right"></i></button>
                 </form>
             </div>
-        </div>
+        </div> */}
         <div className="blog-widget">
-            <h4 className="fw-title">INSTAGRAM</h4>
+            {/* <h4 className="fw-title">INSTAGRAM</h4> */}
             {/* instagram area start */}
-            <SidebarInstagram/>
+            {/* <SidebarInstagram/> */}
             {/* instagram area end */}
         </div>
-        <div className="blog-widget">
+        {/* <div className="blog-widget">
             <h4 className="fw-title">Tag Cloud</h4>
             <div className="tagcloud">
                 <Link href="#">E-sports</Link>
@@ -85,7 +85,7 @@ const BlogSidebar = () => {
                 <Link href="#">Matches</Link>
                 <Link href="#">Streamers</Link>
             </div>
-        </div>
+        </div> */}
     </aside>
   );
 };

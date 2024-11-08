@@ -1,6 +1,8 @@
-import blog_1 from '@/assets/img/blog/blog_post01.jpg';
-import blog_2 from '@/assets/img/blog/blog_post02.jpg';
-import blog_3 from '@/assets/img/blog/blog_post03.jpg';
+import blog_1 from '@/assets/img/blog/โปรโมชั่น/01.png';
+import blog_2 from '@/assets/img/blog/โปรโมชั่น/02.png';
+import blog_3 from '@/assets/img/blog/โปรโมชั่น/04.png';
+import blog_4 from '@/assets/img/blog/โปรโมชั่น/03.png';
+import blog_5 from '@/assets/img/blog/โปรโมชั่น/05.png';
 import { IBlog } from '@/types/blog-type';
 
 const blog_data:IBlog[] = [
@@ -10,8 +12,8 @@ const blog_data:IBlog[] = [
     author:'Admin',
     date:'AUG 19, 2023',
     comments:0,
-    title:'ZOMBIE LAND TOURNAMENT MAX',
-    desc:"Lorem ipsum dolor sit amet, consteur adipiscing Duis elementum solliciin is yaugue euismods Nulla ullaorper. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard."
+    title:'ยินดีตอนรับ สมาชิกใหม่',
+    desc:"ลูกค้าที่เป็นสมาชิกใหม่ เมื่อมียอดฝากครั้งแรก 100 บาท จะได้รับสิทธิ์รับเครดิตเพิ่มเป็น 200 บาททันที โดยก่อนฝากจะต้องมีการกดรับโปรโมชั่นก่อน เพื่อยืนยันการรับสิทธิ์เท่านั้น  "
   },
   {
     id:2,
@@ -19,8 +21,8 @@ const blog_data:IBlog[] = [
     author:'ADMIN',
     date:'AUG 16, 2023',
     comments:0,
-    title:'PLAY TO EARN CRYPTO GAMES PLACE',
-    desc:"Lorem ipsum dolor sit amet, consteur adipiscing Duis elementum solliciin is yaugue euismods Nulla ullaorper. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard."
+    title:'ถูกใจคอกีฬา แทง!บอลสเต็ป',
+    desc:"เพียงเดิมพันบอลสเต็ป 5 คู่ขึ้นไป ในราคาตั้งแต่ 1,000 บาท ไม่ว่าผลจะออกมา ถูกหรือผิด ขอเพียงแค่ผลออกมาเหมือนกันทุกคู่ รับโบนัสฟรีไปเลย 200 บาท"
   },
   {
     id:3,
@@ -28,8 +30,26 @@ const blog_data:IBlog[] = [
     author:'ADMIN',
     date:'MAY 10, 2023',
     comments:0,
-    title:'NFT GAMES ANDROID NO INVESTMENT',
-    desc:"Lorem ipsum dolor sit amet, consteur adipiscing Duis elementum solliciin is yaugue euismods Nulla ullaorper. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard."
+    title:'ลูกค้าประจำ รับเครดิตฟรี',
+    desc:"เอาใจลูกค้าประจำ เพียงลูกค้าฝากเครดิต 1,000 บาทขึ้นไป ต่อเนื่องตามจำนวนวันที่ทางเรากำหนด รับโบนัสไปเลยตั้งแต่ 500 จนสูงสุดถึง 4,000 บาท"
+  },
+  {
+    id:4,
+    img:blog_4,
+    author:'ADMIN',
+    date:'MAY 10, 2023',
+    comments:0,
+    title:'เล่นเสร็จอย่าลืม! รีวิว',
+    desc:"เพียงลูกค้าทุกท่านที่เล่นแตกไม่ว่าจะเป็น สล็อต บาคาร่า กีฬา แคปรูปภาพหน้าจอขณะที่เล่นแตก แล้วทำไปรีวิว บนสื่อโซเชียวมิเดียวของลุกค้าพร้อมกับใส่ลิงค์รับทรัพย์ของตัวเอง ครบ 24 ชม. รับไปเลยทัน 50 บาท ต่อรีวิว"
+  },
+  {
+    id:5,
+    img:blog_5,
+    author:'ADMIN',
+    date:'MAY 10, 2023',
+    comments:0,
+    title:'กงล้อลู้นเครดิต',
+    desc:"สำหรับลูกค้า ที่มียอดฝาก 200 บาทต่อบิล สามารถรับสิทธิ์หมุนกงล้อ 1 ครั้งต่อวัน เพื่อลุ้นรับเครดิตฟรีสูงสุด 2,000 บาท"
   },
 ]
 

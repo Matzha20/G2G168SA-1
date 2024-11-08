@@ -21,7 +21,7 @@ export default function BlogDetailsPage() {
       {/* main area start */}
       <main className="main--area">
         {/* breadcrumb area start */}
-        <BreadcrumbAreaThree title="BLOG DETAILS" subtitle="BLOG DETAILS" />
+        <BreadcrumbAreaThree title="BLOG DETAILS" subtitle="บทความ" />
         {/* breadcrumb area end */}
 
         {/* blog area start */}

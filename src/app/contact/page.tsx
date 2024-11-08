@@ -20,7 +20,7 @@ export default function ContactPage() {
       {/* main area start */}
       <main className="main--area">
         {/* breadcrumb area start */}
-       <BreadcrumbAreaThree title="ช่องทางติดต่อ" subtitle="Contact" />
+       <BreadcrumbAreaThree title="ช่องทางติดต่อ" subtitle="ติดต่อเรา" />
         {/* breadcrumb area end */}
 
         {/* contact area start */}
