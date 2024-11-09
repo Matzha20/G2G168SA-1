@@ -11,7 +11,7 @@ import ProjectArea from "../components/projects/project-area";
 import SocialArea from "../components/social/social-area";
 import BrandArea from "../components/brand/brand-area";
 import FooterTwo from "@/layout/footer/footer-2";
-<link rel= "stylesheet" href="layout.css"></link>
+<link rel= "stylesheet" href="layout.css?v=999"></link>
 
 export const metadata: Metadata = {
   title: "G2G168SA",

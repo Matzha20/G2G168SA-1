@@ -14,7 +14,7 @@ import FooterTwo from "@/layout/footer/footer-2";
 import Navbar from "./components/mycom/nav";
 import Slider from "./components/mycom/slider";
 import Slider2 from "./components/mycom/slider2";
-<link rel= "stylesheet" href="layout.css"></link>
+<link rel= "stylesheet" href="layout.css?v=999"></link>
 
 export const metadata: Metadata = {
   title: "G2G168SA",
