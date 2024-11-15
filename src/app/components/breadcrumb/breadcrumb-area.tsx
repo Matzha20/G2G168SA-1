@@ -22,7 +22,7 @@ const BreadcrumbArea = ({bg=default_bg,brd_img=default_brd_img,title,subtitle}:I
                         <h2 className="title">{title}</h2>
                         <nav aria-label="breadcrumb">
                             <ol className="breadcrumb">
-                                <li className="breadcrumb-item"><Link href="/">Home</Link></li>
+                                <li className="breadcrumb-item"><Link href="/">หน้าแรก</Link></li>
                                 <li className="breadcrumb-item active" aria-current="page">{subtitle}</li>
                             </ol>
                         </nav>
