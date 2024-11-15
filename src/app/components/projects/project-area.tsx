@@ -81,7 +81,7 @@ const ProjectArea = () => {
       <div className="container custom-container">
         <div className="project__wrapper">
           <div className="section__title text-start">
-            <h3 className="title">โปรโมชั่นจัดเต็ม!</h3>
+            <h3 className="title">รีวิวจริงจากลูกค้า</h3>
             <TextAnimation title="แตกหนัก ถอนได้จริง" />
           </div>
           <Swiper

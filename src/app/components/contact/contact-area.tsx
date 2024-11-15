@@ -20,7 +20,7 @@ const ContactArea = () => {
                 <h4 className="title">ข้อมูลการติดต่อ</h4>
                 <ul className="list-wrap">
                   <li>
-                    <Link href="https://lin.ee/PmIuhSe" target="blank">LINE : @537MBNEH</Link>
+                    <Link href="https://lin.ee/TYjRMkD" target="blank">LINE : @2G168</Link>
                   </li>
                   <li>
                     <Link href="https://t.me/+DJ13ETSu-PU3ODll" target="blank">TELEGRAM</Link>
