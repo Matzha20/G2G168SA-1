@@ -56,16 +56,16 @@ const MatchResultArea = () => {
         </div>
         <div className="row match__result-wrapper justify-content-center">
             <div className="col-xl-5 col-sm-6">
-                <MatchWinnerItem name='arsenal' amount='อันดับที่ 3' img={win_1} id='3' place='2'/>
+                <MatchWinnerItem name='arsenal' amount='อันดับที่ 4' img={win_1} id='3' place='-'/>
             </div>
             <div className="col-xl-5 col-sm-6">
-                <MatchWinnerItem name='liverpool' amount='อันดับที่ 2' img={win_2} id='4' place='2'/>
+                <MatchWinnerItem name='nottm forest' amount='อันดับที่ 5' img={win_2} id='4' place='-'/>
             </div>
         </div>
         <div className="row">
             <div className="col-12">
                 <div className="grand__final">
-                    <h6 className="grand__final-date">27 ตุลาคม 2024 | 23:30 น.</h6>
+                    <h6 className="grand__final-date">23 พฤศจิกายน 2024 | 22:00 น.</h6>
                     <span className="grand__final-place">ร่วมเชียร์บอล คลิก!</span>
                     <div className="grand__final-button">
                         <Link href="https://g2g168sa.life/" className="tg-btn-3 tg-svg mx-auto">

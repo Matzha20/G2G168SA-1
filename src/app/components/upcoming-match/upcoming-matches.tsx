@@ -103,7 +103,7 @@ const UpcomingMatches = () => {
           <div className="col-xl-6 col-lg-7 col-md-10">
             <div className="section__title text-center mb-60">
               <TextAnimation title="ตารางการแข่งขัน" />
-              <h3 className="title">MATCH OF THE DAY</h3>
+              <h3 className="title">BEST MATCH TO DAY</h3>
             </div>
           </div>
         </div>
@@ -111,38 +111,38 @@ const UpcomingMatches = () => {
           <div className="col-12">
             <div className="upcoming-match__lists">
               <UpcomingMatchItem
-                date="เสาร์ที่ 2 พฤศจิกายน 2024"
+                date="เสาร์ที่ 23 พฤศจิกายน 2024"
                 team_1={team_1}
                 team_2={team_2}
-                time="19:30"
-                game_name_1="อันดับที่ 12"
-                match_name="newcastle"
-                match_name_2="arsenal"
-                game_name_2="อันดับที่ 3"
+                time="22:00"
+                game_name_1="อันดับที่ 16"
+                match_name="everton"
+                match_name_2="brenford"
+                game_name_2="อันดับที่ 11"
                 delay=".2"
               />
 
               <UpcomingMatchItem
-                date="อาทิตย์ที่ 3 พฤศจิกายน 2024"
+                date="อาทิตย์ที่ 24 พฤศจิกายน 2024"
                 team_1={team_3}
                 team_2={team_4}
-                time="23:30"
-                game_name_1="อันดับที่ 14"
-                match_name="man united"
-                match_name_2="chelsea"
-                game_name_2="อันดับที่ 5"
+                time="00:30"
+                game_name_1="อันดับที่ 2"
+                match_name="man city"
+                match_name_2="tottenham"
+                game_name_2="อันดับที่ 10"
                 delay=".4"
               />
 
               <UpcomingMatchItem
-                date="อังคารที่ 5 พฤศจิกายน 2024"
+                date="อังคารที่ 26 พฤศจิกายน 2024"
                 team_1={team_5}
                 team_2={team_6}
                 time="03:00"
-                game_name_1="อันดับที่ 10"
-                match_name="fulham"
-                match_name_2="brenford"
-                game_name_2="อันดับที่ 9"
+                game_name_1="อันดับที่ 8"
+                match_name="newcasetle"
+                match_name_2="west ham"
+                game_name_2="อันดับที่ 14"
                 delay=".6"
               />
             </div>
