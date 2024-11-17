@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import Wrapper from "@/layout/wrapper";
 import Header from "@/layout/header/header";
 import Footer from "@/layout/footer/footer";
-import BreadcrumbAreaThree from "../components/breadcrumb/breadcrumb-area-3";
+import BreadcrumbAreaThree from "../components/breadcrumb/breadcrumb-area-4";
 import BlogArea from "../components/blog/blog-area";
 
 
