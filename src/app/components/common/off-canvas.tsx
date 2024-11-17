@@ -37,7 +37,7 @@ const OffCanvas = ({isOffCanvasOpen,setIsOffCanvasOpen}:IProps) => {
                       <h4 className="small-title">ติดต่อสอบถาม</h4>
                       <ul className="offCanvas__contact-list list-wrap">
                           <li><Link href="https://t.me/+DJ13ETSu-PU3ODll" target="_blank">กลุ่มนำเล่น TELEGRAM</Link></li>
-                          <li><Link href="https://lin.ee/Ah2WMCh" target="_blank">LINE: @G2G168SA</Link></li>
+                          <li><Link href="https://lin.ee/EJ1uCnB" target="_blank">LINE: @G2S168</Link></li>
                           <li>ติดตามข่าวสาร และแจ้งปัญหาต่างๆได้ที่นี้</li>
                       </ul>
                   </div>

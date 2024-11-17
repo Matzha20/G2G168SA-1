@@ -75,9 +75,9 @@ const AboutAreaTwo = () => {
                                  <SvgIconCom icon={shape} id="svg-6" />
                                  <span>สมัครสมาชิก</span>
                               </Link>
-                              <a className="popup-video cursor-pointer"
+                              {/* <a className="popup-video cursor-pointer"
                                  onClick={() => setIsVideoOpen(true)}><i className="fas fa-play">
-                              </i><span className="text">วิธีสมัครสมาชิก</span></a>
+                              </i><span className="text">วิธีสมัครสมาชิก</span></a> */}
                            </div>
                         </div>
                      </div>

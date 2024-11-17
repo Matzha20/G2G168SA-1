@@ -29,7 +29,7 @@ const BlogItem = ({blog}:{blog:IBlog}) => {
           </ul>
         </div>
         <h2 className="title">
-          <Link href={`/blog-details/${blog.id}`}>{blog.title}</Link>
+          {blog.title}
         </h2>
         <p>
           {blog.desc}

@@ -26,12 +26,12 @@ const menu_data:IMenuDataType[] = [
   },
   {
     id:3,
-    title:'โปรโมชั่นและกิจกรรม',
-    link:'#',
-    sub_menu:[
-      {title:'โปรโมชั่น',link:'/blog'},
-      {title:'กิจกรรม',link:'/blog2'},
-    ]
+    title:'โปรโมชั่น',
+    link:'/blog',
+    // sub_menu:[
+    //   // {title:'โปรโมชั่น',link:'/blog'},
+    //   // {title:'กิจกรรม',link:'/blog2'},
+    // ]
   },
   // {
   //   id:4,

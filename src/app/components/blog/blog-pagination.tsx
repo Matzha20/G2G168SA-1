@@ -4,14 +4,14 @@ import Link from "next/link";
 const BlogPagination = () => {
   return (
     <ul className="list-wrap d-flex flex-wrap justify-content-center">
-      <li>
+      {/* <li>
         <span className="page-numbers current">01</span>
-      </li>
-      <li>
+      </li> */}
+      {/* <li>
         <Link href="#" className="page-numbers">
           02
         </Link>
-      </li>
+      </li> */}
       {/* <li>
         <span className="page-numbers current">02</span>
       </li> */}
