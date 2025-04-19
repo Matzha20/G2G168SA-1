@@ -53,7 +53,7 @@ const FooterTwo = () => {
                             <h4 className="title">ติดต่อสอบถาม</h4>
                             <ul className="list-wrap">
                                 <li><Link href="https://t.me/+DJ13ETSu-PU3ODll" target='blank'>TELEGRAM</Link></li>
-                                <li><Link href="https://lin.ee/EJ1uCnB" target='blank'>LINE : @G2S168</Link></li>
+                                <li><Link href="https://lin.ee/pcqmqzU" target='blank'>LINE : @G2S168SA1</Link></li>
                                 <li>ติดปัหญาหรือต้องการคำแนะนำ <br/>สามารถติดต่อที่ช่องทางด้านบนได้ 24 ชม.</li>
                             </ul>
                         </div>
