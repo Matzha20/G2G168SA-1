@@ -23,7 +23,7 @@ const VideoArea = () => {
                 </h2>
                 <p>สมัครสมาชิกง่ายๆ ใช้เวลาไม่นาน ที่ไหนก็สมัครได้</p>
                 <a
-                  href="https://g2g168sa.life/register"
+                  href="https://www.g2g168sa.bio/"
                   target="_blank"
                   className="video__btn tg-btn-1"
                 >

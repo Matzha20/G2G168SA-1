@@ -85,7 +85,7 @@ const Header = ({style_2=false}:{style_2?:boolean}) => {
                         </a>
                       </li>
                       <li className="header-btn">
-                        <Link href="https://g2g168sa.life/register" className={`${style_2?'tg-btn-3 tg-svg':'tg-border-btn'}`}>
+                        <Link href="https://g2g168sa.bio/register" className={`${style_2?'tg-btn-3 tg-svg':'tg-border-btn'}`}>
                           {style_2 && <SvgIconCom icon={shape} id="svg-2" />}
                           <i className="flaticon-edit"></i>สมัครสมาชิก
                         </Link>

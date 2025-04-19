@@ -29,13 +29,13 @@ const TeamArea = () => {
             >
               <div className="team__item">
                 <div className="team__thumb">
-                  <Link href="https://g2g168sa.life/">
+                  <Link href="https://www.g2g168sa.bio/">
                     <Image src={t.img} alt="img" style={{width:'100%',height:'auto'}} />
                   </Link>
                 </div>
                 <div className="team__content">
                   <h4 className="name">
-                    <Link href="https://g2g168sa.life/">{t.title}</Link>
+                    <Link href="https://www.g2g168sa.bio/">{t.title}</Link>
                   </h4>
                   <span className="designation">{t.subtitle}</span>
                 </div>

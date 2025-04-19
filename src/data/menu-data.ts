@@ -16,7 +16,7 @@ const menu_data:IMenuDataType[] = [
     link:'/',
     sub_menu:[
       {title:'หน้าแรก',link:'/'},
-      {title:'เข้าสู่เว็บไซต์',link:'https://g2g168sa.life/'},
+      {title:'เข้าสู่เว็บไซต์',link:'https://www.g2g168sa.bio/'},
     ]
   },
   {
