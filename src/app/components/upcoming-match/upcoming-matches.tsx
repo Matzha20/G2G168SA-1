@@ -45,7 +45,7 @@ function UpcomingMatchItem({
       <SvgIconCom icon={match_icon} id="svg-7" />
       <div className="upcoming-match__position">
         <div className="upcoming-match__team team-left">
-          <Link href="https://www.g2g168sa.bio/">
+          <Link href="https://g2g168sa.app/">
             <Image src={team_1} alt="img" style={imgStyle} />
           </Link>
         </div>
@@ -53,7 +53,7 @@ function UpcomingMatchItem({
           <div className="team--info info-left">
             <span className="game-name">{game_name_1}</span>
             <h3 className="name">
-              <Link href="https://www.g2g168sa.bio/">{match_name}</Link>
+              <Link href="https://g2g168sa.app/">{match_name}</Link>
             </h3>
           </div>
           <div className="upcoming-match__time">
@@ -62,12 +62,12 @@ function UpcomingMatchItem({
           <div className="team--info info-right">
             <span className="game-name">{game_name_2}</span>
             <h3 className="name">
-              <Link href="https://www.g2g168sa.bio/">{match_name_2}</Link>
+              <Link href="https://g2g168sa.app/">{match_name_2}</Link>
             </h3>
           </div>
         </div>
         <div className="upcoming-match__team team-right">
-          <Link href="https://www.g2g168sa.bio/">
+          <Link href="https://g2g168sa.app/">
             <Image src={team_2} alt="img" style={imgStyle} />
           </Link>
         </div>

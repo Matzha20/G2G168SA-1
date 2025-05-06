@@ -78,8 +78,8 @@ const FooterTwo = () => {
                         <div className="footer-el-widget text-start text-md-end">
                             <h4 className="title">ช่องทางการเข้าเล่น</h4>
                             <ul className="list-wrap">
-                                <li><Link href="https://g2g168sa.bio/login">เข้าสู่งระบบ</Link></li>
-                                <li><Link href="https://www.g2g168sa.bio/">สมัครสมาชิก</Link></li>
+                                <li><Link href="https://g2g168sa.app/login">เข้าสู่งระบบ</Link></li>
+                                <li><Link href="https://g2g168sa.app/">สมัครสมาชิก</Link></li>
                                 <li>ขอให้ทุกท่านสนุกและโชคดี<br/>ไปกับทุกการเดิมพัน ขอบคุณที่ไว้ใจเรา</li>
                             </ul>
                         </div>

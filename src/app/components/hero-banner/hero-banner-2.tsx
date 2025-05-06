@@ -26,7 +26,7 @@ const HeroBannerTwo = () => {
                 className="banner__btn wow bounceInLeft"
                 data-wow-delay=".6s"
               >
-                <Link href="https://www.g2g168sa.bio/login" className="tg-btn-3 tg-svg mx-auto">
+                <Link href="https://www.g2g168sa.app/login" className="tg-btn-3 tg-svg mx-auto">
                   <SvgIconCom icon={shape} id="svg-1"/>
                   <span>เข้าสู่ระบบ</span>
                 </Link>

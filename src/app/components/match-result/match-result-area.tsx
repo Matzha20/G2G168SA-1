@@ -26,7 +26,7 @@ function MatchWinnerItem ({name,amount,img,id,place}:IWinnerItem) {
             </div>
             <div className="match__winner-img tg-svg">
                 <div className="team-logo-img">
-                    <Link href="https://www.g2g168sa.bio/"><Image src={img} alt="img" style={imgStyle}/></Link>
+                    <Link href="https://g2g168sa.app/"><Image src={img} alt="img" style={imgStyle}/></Link>
                 </div>
                 <SvgIconCom icon={shape} id={`svg-${id}`}/>
                 <h3 className="match__winner-place">{place}</h3>
@@ -68,7 +68,7 @@ const MatchResultArea = () => {
                     <h6 className="grand__final-date">23 พฤศจิกายน 2024 | 22:00 น.</h6>
                     <span className="grand__final-place">ร่วมเชียร์บอล คลิก!</span>
                     <div className="grand__final-button">
-                        <Link href="https://www.g2g168sa.bio/" className="tg-btn-3 tg-svg mx-auto">
+                        <Link href="https://www.g2g168sa.app/" className="tg-btn-3 tg-svg mx-auto">
                             <SvgIconCom icon={icon} id="svg-5"/>
                             <span>ดูเพิ่มเติม</span>
                         </Link>

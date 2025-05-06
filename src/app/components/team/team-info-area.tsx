@@ -24,7 +24,7 @@ const TeamInfoArea = () => {
                         </div>
                         <div className="team__info-discord-info">
                             <span className="sub">เข้าเล่น</span>
-                            <h5 className="title"><Link href="https://www.g2g168sa.bio/" target="_blank">G2G168SA</Link></h5>
+                            <h5 className="title"><Link href="https://g2g168sa.app/" target="_blank">G2G168SA</Link></h5>
                         </div>
                     </div>
                     <div className="team__info-list">

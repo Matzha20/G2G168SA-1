@@ -67,7 +67,7 @@ const ServicesArea = () => {
                             <i className={item.icon}></i>
                         </div>
                         <div className="services__content">
-                            <h4 className="title"><Link href="https://www.g2g168sa.bio/">{item.title}</Link></h4>
+                            <h4 className="title"><Link href="https://g2g168sa.app/">{item.title}</Link></h4>
                             <p>{item.desc}</p>
                         </div>
                     </div>
@@ -79,7 +79,7 @@ const ServicesArea = () => {
                   {service_images.map((s,i) => (
                     <div key={i} className={`services__images-item ${activeIndex === i ? "active" : ""}`}>
                         <Image src={s} alt="img" style={{width:'100%',height:'100%'}} />
-                        <Link href="https://www.g2g168sa.bio/" className="services__link">
+                        <Link href="https://g2g168sa.app/" className="services__link">
                             <i className="flaticon-next"></i>
                         </Link>
                     </div>
